@@ -5,3 +5,6 @@ A regex, which is short for regular expression, is a sequence of characters that
 For example, the following regular expression can be used to verify that user input is a valid email address:
 
 /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
+
+##Links
+https://gist.github.com/mine-mod/5789c20fe44b8531f2e57f228441c34d
