@@ -6,5 +6,5 @@ For example, the following regular expression can be used to verify that user in
 
 /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
-##Links
+## Links
 https://gist.github.com/mine-mod/5789c20fe44b8531f2e57f228441c34d
